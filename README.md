@@ -31,5 +31,5 @@ Code to determine the temporal diversity and distance parameters for the experim
 H. Fitness estimates antibiotics.ipynb
 Code to determine fitness for experiment with antibiotic treatment.
 
-The ""Biofilm_filtered.csv" and all raw data used to process the files is availaible on Zenodo. The link to the Zenodo repository is:  To work with the files, please save the files in a subfolder called the "Figurewise raw data". This will allow access to all files.
+The ""Biofilm_filtered.csv" and all raw data used to process the files is availaible on Zenodo. The link to the Zenodo repository is: https://doi.org/10.5281/zenodo.22301322. To work with the files, please save the files in a subfolder called the "Figurewise raw data". This will allow access to all files.
 
