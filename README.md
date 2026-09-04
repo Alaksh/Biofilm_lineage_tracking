@@ -31,5 +31,5 @@ Code to determine the temporal diversity and distance parameters for the experim
 H. Fitness estimates antibiotics.ipynb
 Code to determine fitness for experiment with antibiotic treatment.
 
-
+The ""Biofilm_filtered.csv" and all raw data used to process the files is availaible in the "Figurewise raw data" folder. The figure subpanels were saved in the "Figures paper" folder.
 
